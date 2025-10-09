@@ -1,8 +1,9 @@
 
 ### Olá! Eu sou Willian Martins ✌️
 
-[![Blog](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](https://sites.google.com/view/portfoliowillianmartins/projetos-no-power-bi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-martins1)
+[![Blog](https://img.shields.io/website-up-down-green-red/http/cv.lbesson.qc.to.svg)](https://sites.google.com/view/portfoliowillianmartins/projetos-no-power-bi)
+
 
 ![Willian GitHub stats](https://github-readme-stats.vercel.app/api?username=willianmartins1&show_icons=true&theme=merko)
 
