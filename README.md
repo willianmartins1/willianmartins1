@@ -1,4 +1,3 @@
-
 ### Olá! Eu sou Willian Martins ✌️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/willian-martins1)
@@ -10,13 +9,13 @@
 ### Ferrmentas Utilizadas
 
 <div style="display: inline_block"><br/>
-    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    <img align="center" alt="sqlserver" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-   <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-   <img align="center" alt="r" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-    <img align="center" alt="json" src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" />
-    <img align="center" alt="excel" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+    <img align="center" alt="python" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+    <img align="center" alt="sqlserver" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" />
+    <img align="center" alt="mysql" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+   <img align="center" alt="mongodb" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+   <img align="center" alt="r" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+    <img align="center" alt="json" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
+    <img align="center" alt="excel" heigth="30" width="40" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div><br/>
 
 ### Graduado Cientista de Dados
