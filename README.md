@@ -1,4 +1,4 @@
-![Descrição da imagem](https://github.com/willianmartins1/ProjetoGit1/blob/main/BANNER.jpg?raw=true)
+![Descrição da imagem](https://github.com/willianmartins1/ProjetoGit1/blob/main/BANNER2.jpg?raw=true)
 ---
 
 <div align="center">
